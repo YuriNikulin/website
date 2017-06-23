@@ -17,3 +17,10 @@
 .text-center {
 	text-align: center;
 }
+.text {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.text--reg {
+	font-size: 14px;
+}
